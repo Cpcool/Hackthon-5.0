@@ -1,5 +1,5 @@
 # Hackthon-5.0
-Our Project is related to bioinformatic where we optimized the performance of ViennaRNA's software package RNAfold which is used to calculate the secondary structure of RNA (used in medical research) and if there are complex jobs to run on then it takes a lot of time to execute so we have an idea of that can be useful in future to get quick result. 
+Our Project is related to bioinformatic where we optimized the performance of one functionality of ViennaRNA'software package RNAfold, which is used to calculate the secondary structure of RNA (in medical research) and if there will be complex jobs to run on in future, then it takes a lot of time to execute (may be some days) so we create an Wrapper idea of that so that it can be useful in future to get quick result. 
 
 
 You have to execute it in this way :-
